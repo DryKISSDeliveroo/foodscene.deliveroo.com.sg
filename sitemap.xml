@@ -373,6 +373,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/new-to-roo.html</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/big-flavour-small-prices-cheap-food-in-singapore.html</loc>
     <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
