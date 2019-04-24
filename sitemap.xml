@@ -2305,6 +2305,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/seasonal-menu.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/jamies-italian-new-menu-april-2018.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9332,6 +9338,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/editor/page/6.html</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/editor/page/7.html</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
