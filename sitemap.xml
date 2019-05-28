@@ -2707,6 +2707,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/impossible-foods.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/plant-based-eating.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/pizza.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2996,12 +3014,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/bowls.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8353,6 +8365,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/2.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/3.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/4.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/5.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/6.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/pizza/page/2.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8414,36 +8456,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/desserts/page/2.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/2.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/3.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/4.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/5.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/vegetarian/page/6.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
