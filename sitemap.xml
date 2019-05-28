@@ -2173,6 +2173,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/impossible-menus-on-deliveroo.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/pezzo.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8161,13 +8167,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/promotions.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8197,13 +8203,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/deliveroo-singapore.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/deliveroo-singapore.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9091,18 +9097,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/promotions/page/2.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/promotions/page/3.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/page/2.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9128,6 +9122,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/page/6.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/page/2.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/page/3.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9337,13 +9343,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/deliveroo-singapore/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg/page/2.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/deliveroo-singapore/page/2.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
