@@ -2701,6 +2701,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/restaurant-marketing.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/restaurant-resources.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3614,12 +3620,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/budget.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/restaurant-marketing.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8245,13 +8245,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/editor.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/editor.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9385,6 +9385,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg/page/2.html</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/editor/page/2.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9416,12 +9422,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/editor/page/7.html</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/deliveroo-sg/page/2.html</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
