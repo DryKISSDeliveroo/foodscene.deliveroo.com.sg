@@ -2347,6 +2347,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/improving-customer-rider-communications.html</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/restaurant-profiles/five-best-restaurants-robertson-quay-singapore.html</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2702,6 +2708,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/about/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/food-delivery.html</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/customer-service.html</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
