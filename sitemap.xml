@@ -2731,13 +2731,31 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/customer-service.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/competition.html</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/menu.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/entrepreneur.html</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/restaurant.html</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/food.html</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/customer-service.html</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2756,6 +2774,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/grow-your-orders.html</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/menu.html</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4994,12 +5018,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/spreads.html</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/food.html</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8072,12 +8090,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/bundles.html</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/competition.html</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
