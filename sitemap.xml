@@ -2779,6 +2779,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/free-delivery-for-new-customers-this-dec-18-dollar-minimum-spend.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/2020-survey-500-grocery-voucher.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2786,6 +2792,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/ramadan-2017-with-deliveroo.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/free-delivery-new-customers-this-dec-18-dollar-minimum-spend.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2851,7 +2863,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/terms.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/promotions.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2863,13 +2875,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/nux.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/terms.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/nux.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8431,13 +8443,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/terms.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/promotions.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/terms.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8587,13 +8599,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/terms/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/promotion/page/2.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/promotion/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/terms/page/2.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9121,6 +9133,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/archive/2020/page/3.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/archive/2019/page/2.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9385,12 +9403,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/terms/page/2.html</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/page/2.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9404,6 +9416,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/page/4.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/page/5.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/terms/page/2.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
