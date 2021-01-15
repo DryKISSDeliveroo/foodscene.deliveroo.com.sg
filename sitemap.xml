@@ -2587,6 +2587,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/free-food-for-a-month.html</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/game-of-thrones-meals.html</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2797,6 +2803,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/free-food-for-a-month.html</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/ramadan-2017-with-deliveroo.html</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2875,13 +2887,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/promotion.html</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/promotion.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/tag/promotions.html</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8426,6 +8438,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/foodscene.html</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/archive/2021.html</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
