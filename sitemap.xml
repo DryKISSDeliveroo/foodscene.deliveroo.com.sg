@@ -2593,36 +2593,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/recipes/jamies-italian-recipe.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/recipes/frenchee-sandwich-park-bench-deli.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/recipes/muchachos-recipe.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/recipes/three-buns-recipe.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/recipes/grain-traders-salsa-verde-recipe.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/5-birthday-win-staycation.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2953,37 +2923,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/community/barepack-deliveroo-sustainability.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/community/singapore-tip-matching-deliveroo-may-2021.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/community/grain-traders-salsa-verde-recipe.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/community/three-buns-recipe.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/community/frenchee-sandwich-park-bench-deli.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/community/jamies-italian-recipe.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/community/muchachos-recipe.html</loc>
+    <loc>https://foodscene.deliveroo.com.sg/community/barepack-deliveroo-islandwide.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8545,18 +8497,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/frenchee.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/park-bench-deli.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/international-women-s-day.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8564,6 +8504,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/women-in-food.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/frenchee.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/park-bench-deli.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8636,12 +8588,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/cuisine-inspiration.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/recipes.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9151,12 +9097,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/cheese/page/3.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/steak/page/2.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9302,12 +9242,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/dish-of-the-day/page/2.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/recipe/page/2.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9590,12 +9524,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/archive/2017/page/23.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/archive/2017/page/24.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9889,6 +9817,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/deliveroo/page/5.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/deliveroo-singapore/page/2.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10100,12 +10034,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/mark-cheong/page/4.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/mark-cheong/page/5.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
