@@ -2941,6 +2941,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions/10off-new-customers-martojun22.html</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/eat-well.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3055,6 +3061,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/promotions.html</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/deliveroo.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3086,12 +3098,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/terms.html</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/promotions.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8719,6 +8725,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.sg/promotions.html</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.sg/full-life.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8726,12 +8738,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/terms.html</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/promotions.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8875,12 +8881,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/tag/terms/page/2.html</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/promotions/page/2.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8888,6 +8888,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/tag/promotions/page/3.html</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/tag/terms/page/2.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9703,18 +9709,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.sg/full-life/page/2.html</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.sg/terms/page/2.html</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/page/2.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9746,6 +9740,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.sg/promotions/page/7.html</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/full-life/page/2.html</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.sg/terms/page/2.html</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
